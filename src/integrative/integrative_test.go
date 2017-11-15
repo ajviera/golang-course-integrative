@@ -1,4 +1,4 @@
-package main
+package integrative
 
 import (
 	"encoding/json"
